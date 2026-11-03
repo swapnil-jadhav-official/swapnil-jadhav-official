@@ -48,20 +48,6 @@ My work includes building **enterprise applications, AI-powered conversational s
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swapnil-jadhav-official&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil-jadhav-official&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
 ### 🎯 Areas of Interest
 
 `Full Stack Architecture` · `Scalable Backend Systems` · `AI Integrations` · `Cloud Engineering` · `Performance Optimization`
